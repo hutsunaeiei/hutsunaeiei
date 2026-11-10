@@ -53,12 +53,17 @@ favorite_character: Grogu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&hide_border=true" />
+  <h1>🌷 Hi, I'm Hutsuna! 🌷</h1>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue&hide_border=true" />
+  <p>˚₊‧꒰ა welcome to my little galaxy ໒꒱ ‧₊˚</p>
+
+  <img src="./assets/grogu.png" width="350" alt="Grogu raising his hands" />
+
+  <h3>🌱 Just a girl who loves coding 🎀</h3>
+
+  <p>🌸 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ 🌸</p>
 
 </div>
-
 ---
 
 ### 🪐 My Little Galaxy
