@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# 🌷 Hi, I'm Hutsuna! 🌷
-
 ### ✦ welcome to my little galaxy ✦
 
 <div align="center">
@@ -13,8 +11,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmthcGRjdjh4Y3ViOGNna2U4cnJ6M2ZsZWYxODdzbzlyYTB4a2czbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AcfTF7tyikWyroP0x7/giphy.gif" width="350" alt="Grogu raising his hands" />
 
   <h3>🌱 Just a girl who loves coding 🎀</h3>
-
-  <p>🌸 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ 🌸</p>
 
 </div>
 ---
