@@ -43,7 +43,7 @@ favorite_character: Grogu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,figma,vscode,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,figma,vscode,git,nextjs,bootstrap,github&theme=light" />
 
 </div>
 
