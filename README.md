@@ -5,6 +5,20 @@
 
 ### ✦ welcome to my little galaxy ✦
 
+<div align="center">
+
+  <h1>🌷 Hi, I'm Hutsuna! 🌷</h1>
+
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmthcGRjdjh4Y3ViOGNna2U4cnJ6M2ZsZWYxODdzbzlyYTB4a2czbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AcfTF7tyikWyroP0x7/giphy.gif" width="350" alt="Grogu raising his hands" />
+
+  <h3>🌱 Just a girl who loves coding 🎀</h3>
+
+  <p>🌸 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ 🌸</p>
+
+</div>
+---
+
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=86A789&center=true&vCenter=true&width=500&lines=Hello+World!+%E2%99%A1;Just+a+girl+who+loves+coding;May+the+Force+be+with+you!" />
 
 <br/>
@@ -49,22 +63,7 @@ favorite_character: Grogu
 
 ---
 
-### 🌸 My Coding Garden
 
-<div align="center">
-
-  <h1>🌷 Hi, I'm Hutsuna! 🌷</h1>
-
-  <p>˚₊‧꒰ა welcome to my little galaxy ໒꒱ ‧₊˚</p>
-
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmthcGRjdjh4Y3ViOGNna2U4cnJ6M2ZsZWYxODdzbzlyYTB4a2czbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AcfTF7tyikWyroP0x7/giphy.gif" width="350" alt="Grogu raising his hands" />
-
-  <h3>🌱 Just a girl who loves coding 🎀</h3>
-
-  <p>🌸 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ 🌸</p>
-
-</div>
----
 
 ### 🪐 My Little Galaxy
 
