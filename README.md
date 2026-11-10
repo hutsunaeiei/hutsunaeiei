@@ -13,7 +13,6 @@
   <h3>🌱 Just a girl who loves coding 🎀</h3>
 
 </div>
----
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=86A789&center=true&vCenter=true&width=500&lines=Hello+World!+%E2%99%A1;Just+a+girl+who+loves+coding;May+the+Force+be+with+you!" />
 
@@ -38,7 +37,7 @@ currently_learning:
   - UI/UX Design
   - Creative Coding
 interests:
-  - Pixel Art
+  - Design website
   - 3D Design
   - Cute Interfaces
   - Gaming
